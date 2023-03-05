@@ -16,7 +16,7 @@ The script executes logic in the following sequence:
         
         b. Count the number of rows of data
         
-        c. For every row in the worksheet, do the following as each row is analysed:
+        c. For every row in the worksheet, do the following as each row is analysed, as part of a loop:
         
             i. Part 1: Isolate unique stock tickers and populate the summary table region
             
